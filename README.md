@@ -1,6 +1,6 @@
 # 🧠 Claude Prompt Library
 
-A curated collection of prompts and techniques for getting the most out of Claude. Built by [Alessandra Ritacco](https://github.com/aleyritacco) from real-world use across nonprofit development, event management, entrepreneurship, research, and creative work.
+A curated collection of prompts and techniques for getting the most out of Claude. Built by [Alessandra Desiderio](https://github.com/aley-fiore3) from real-world use across nonprofit development, event management, entrepreneurship, research, and creative work.
 
 ## Why This Exists
 
