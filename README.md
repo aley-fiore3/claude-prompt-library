@@ -82,6 +82,7 @@ Followed by: the prompt itself, usage notes, example output, and customization t
 
 - **[fiore3-automation-demos](https://github.com/aley-fiore3/fiore3-automation-demos)** — Automation demos and case studies showing these prompts deployed in real workflows
 - **[event-data-tools](https://github.com/aley-fiore3/event-data-tools)** — Python scripts for data cleaning and reconciliation, used alongside prompt-driven analysis
+- **[event-reconciliation-dashboard](https://github.com/aley-fiore3/event-reconciliation-dashboard)** — No-code Streamlit dashboard for cleaning and reconciling event registration data
 
 ---
 
